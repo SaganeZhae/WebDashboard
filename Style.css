@@ -220,3 +220,13 @@ aside .sidebar .message-count{
     border-radius: var(--border-radius-1);
 }
 
+main{
+    margin-top: 1.4rem;
+}
+
+main .analyse{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.6rem;
+}
+
